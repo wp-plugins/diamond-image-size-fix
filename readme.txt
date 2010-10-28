@@ -8,5 +8,11 @@ Stable tag: 1.0
 
 
 == Description ==
+
 When you edit an uploaded image in the media library you won't be able to applies your changes to the new additional image sizes, and the post thumbnail.
 This plugin solves that problem. 
+
+== Installation ==
+
+ - Just download and activate
+ 
